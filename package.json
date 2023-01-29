@@ -1,0 +1,21 @@
+{
+  "name": "nicbudd",
+  "displayName": "Nicbudd",
+  "description": "Nicbudd's color theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nicbudd",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nicbudd-color-theme.json"
+      }
+    ]
+  }
+}
